@@ -1,1 +1,1 @@
-# smart_home_device
+# Smart Home Device
